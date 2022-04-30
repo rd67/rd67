@@ -1,9 +1,9 @@
-<center><h1> MERN Stack, Golang Developer Plus DevOps</h1></center>
+<h1><center> MERN Stack, Golang Developer Plus DevOps</center></h1>
 
 ## 🚀 About Me
 I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experience** in startups for both Services & Product based companies in my hometown with 1 yr of experience working remotely. My work includes **Developing REST APIs, Administrative Panels, Unit Tests, CI & CD, Communicating with clients, and Managing the Back-end & DevOps teams**. I would be a good addition to the team because **I am Committed, Take Responsibility for the Work, and Never Stop Learning**.
 
-## Tech Stack
+## 🌿 Tech Stack
 </br>
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
@@ -66,19 +66,19 @@ I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experi
 
 ## Git Stats
 <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rd67" alt="rd67" />
-    </a>
-</p>
-<br/>
-<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rd67&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="rd67 stats card" />
 </p>
 <br/>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rd67&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=default" alt="rd67 stats card" />
 </p>
-
+<br/>
+<p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=rd67" alt="rd67" />
+    </a>
+</p>
+<br/>
 
 ##  🧠 I'm currently learning...
 <a href="https://golang.org" target="blank">
