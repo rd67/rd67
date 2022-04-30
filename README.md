@@ -64,6 +64,7 @@ I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experi
 </a>
 <br/>
 
+## Git Stats
 <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=rd67" alt="rd67" />
