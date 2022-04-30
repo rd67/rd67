@@ -1,11 +1,10 @@
-<center># MERN Stack, Golang Developer Plus DevOps</center>
+<center><h1> MERN Stack, Golang Developer Plus DevOps</h1></center>
 
 ## 🚀 About Me
 I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experience** in startups for both Services & Product based companies in my hometown with 1 yr of experience working remotely. My work includes **Developing REST APIs, Administrative Panels, Unit Tests, CI & CD, Communicating with clients, and Managing the Back-end & DevOps teams**. I would be a good addition to the team because **I am Committed, Take Responsibility for the Work, and Never Stop Learning**.
 
 ## Tech Stack
 </br>
-**Backend**:
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
@@ -18,8 +17,6 @@ I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experi
 <a href="https://golang.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="40" width="40" />
 </a>
-</br>
-**Frontend**:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
@@ -38,8 +35,6 @@ I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experi
 <a href="https://sass-lang.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40" />
 </a>
-<br/>
-**Database**:
 <a href="https://www.mongodb.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>
@@ -49,8 +44,6 @@ I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experi
 <a href="https://redis.io" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="40" width="40" />
 </a>
-<br/>
-**DevOps**:
 <a href="https://aws.amazon.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" width="40" />
 </a>
@@ -63,8 +56,6 @@ I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experi
 <a href="https://www.nginx.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="40" width="40" />
 </a>
-<br/>
-**Unit Testing**:
 <a href="https://mochajs.org" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" height="40" width="40" />
 </a>
@@ -73,7 +64,7 @@ I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experi
 </a>
 <br/>
 
-<p align="center">
+<p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=rd67" alt="rd67" />
     </a>
