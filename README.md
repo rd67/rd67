@@ -1,7 +1,7 @@
 <h1><center> MERN Stack, Golang Developer Plus DevOps</center></h1>
 
 ## 🚀 About Me
-I'm primarily a **Back-end Developer plus DevOps with more than 6+ yrs of experience** in startups for both Services & Product based companies in my hometown with 1 yr of experience working remotely. My work includes **Developing REST APIs, Administrative Panels, Unit Tests, CI & CD, Communicating with clients, and Managing the Back-end & DevOps teams**. I would be a good addition to the team because **I am Committed, Take Responsibility for the Work, and Never Stop Learning**.
+I'm primarily a **Back-end Developer plus DevOps with almost 7 years of experience** in startups for both Services & Product based companies in my hometown with 1 yr of experience working remotely. My work includes **Developing REST APIs, Administrative Panels, Unit Tests, CI & CD, Communicating with clients, and Managing the Back-end & DevOps teams**. I would be a good addition to the team because **I am Committed, Take Responsibility for the Work, and Never Stop Learning**.
 
 ## 🌿 Tech Stack
 </br>
