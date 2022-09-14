@@ -62,6 +62,12 @@ I'm primarily a **Back-end Developer plus DevOps with almost 7 years of experien
 <a href="https://github.com/puppeteer/puppeteer" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" title="Puppeteer" height="40" width="40" />
 </a>
+<a href="https://laravel.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" title="Laravel" height="40" width="40" />
+</a>
+<a href="https://www.php.net/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="Php" title="Php" height="40" width="40" />
+</a>
 <br/>
 
 ## Git Stats
