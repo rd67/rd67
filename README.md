@@ -88,11 +88,14 @@ I'm primarily a **Back-end Developer plus DevOps with almost 7 years of experien
 
 ##  🧠 I'm currently learning...
 <a href="https://golang.org" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" height="60" width="60" />
 </a>
 <a href="https://kubernetes.io/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" title="Kubernetes" height="80" width="120" />
 </a>
 
-    
+<a href="https://azure.microsoft.com/en-in" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" title="Microsoft Azure" height="80" width="120" />
+</a>
+
 </br>
