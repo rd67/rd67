@@ -1,7 +1,9 @@
 <h1><center>FullStack, Golang Developer & DevOps</center></h1>
 
 ## 🚀 About Me
-I'm primarily a **Back-end Developer plus DevOps with 8 years of experience** in Services & Product based companies. My work includes **Developing REST APIs, Administrative Panels, Unit Tests, CI & CD, Communicating with clients, and Managing the Back-end & DevOps teams**. I would be a good addition to the team because **I am Committed, Take Responsibility for the Work, and Never Stop Learning**.
+**Backend Developer & DevOps Engineer with 10 years of experience** across startups and tech companies, specializing in building scalable APIs, architecting microservices, and managing cloud infrastructure. Proven expertise in backend development (Node.js, Golang, Laravel), DevOps (AWS, DigitalOcean, Azure, Docker, Kubernetes, CI/CD), and team leadership. Recognized for driving cost optimizations, solving complex problems, and delivering high-quality, production-ready systems.
+
+## Resume & Contact -  [Resume](https://github.com/rd67/rd67/blob/main/Rohit%20Dalal%20-%20Resume.pdf)
 
 ## 🌿 Tech Stack
 </br>
@@ -73,10 +75,6 @@ I'm primarily a **Back-end Developer plus DevOps with 8 years of experience** in
 ## Git Stats
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rd67&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="rd67 stats card" />
-</p>
-<br/>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rd67&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=default" alt="rd67 stats card" />
 </p>
 <br/>
 <p>
