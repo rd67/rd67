@@ -3,7 +3,7 @@
 ## 🚀 About Me
 **Backend Developer & DevOps Engineer with 10 years of experience** across startups and tech companies, specializing in building scalable APIs, architecting microservices, and managing cloud infrastructure. Proven expertise in backend development (Node.js, Golang, Laravel), DevOps (AWS, DigitalOcean, Azure, Docker, Kubernetes, CI/CD), and team leadership. Recognized for driving cost optimizations, solving complex problems, and delivering high-quality, production-ready systems.
 
-## Resume & Contact -  [Resume](https://github.com/rd67/rd67/blob/main/Rohit%20Dalal%20-%20Resume.pdf)
+## Resume & Contact -  [Resume](https://github.com/rd67/rd67/blob/main/Resume.pdf)
 
 ## 🌿 Tech Stack
 </br>
