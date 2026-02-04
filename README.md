@@ -10,7 +10,7 @@
     <a href="https://github.com/rd67" target="blank" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet" alt="GitHub"/>
     </a>
     <a href="https://docs.google.com/document/d/15lDoHK7RmvAiBKZPdgUu30Uzs6KzXRZRgKOv5z0FDcY/edit?usp=sharing" target="_blank" title="Resume">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Resume%20Link-8A2BE2?style=for-the-badge" alt="Resume"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Resume-8A2BE2?style=for-the-badge" alt="Resume"/>
     </a>
 </span>
 <br/>
