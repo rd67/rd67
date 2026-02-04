@@ -1,99 +1,138 @@
-<h1><center>FullStack, Golang Developer & DevOps</center></h1>
+<img src='images/cover.jpeg' alt="Rohit Dalal"></img>
 
-## 🚀 About Me
-**Backend Developer & DevOps Engineer with 10 years of experience** across startups and tech companies, specializing in building scalable APIs, architecting microservices, and managing cloud infrastructure. Proven expertise in backend development (Node.js, Golang, Laravel), DevOps (AWS, DigitalOcean, Azure, Docker, Kubernetes, CI/CD), and team leadership. Recognized for driving cost optimizations, solving complex problems, and delivering high-quality, production-ready systems.
+<center><img src="images/profile.jpg" height="auto" width="100" style="border-radius:50%"></center>
 
-## Resume & Contact -  [Resume](https://github.com/rd67/rd67/blob/main/Resume.pdf)
+## How to reach me 📫:
 
-## 🌿 Tech Stack
-</br>
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" height="40" width="40" />
-</a>
-<a href="https://www.typescriptlang.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" width="40" />
-</a>
-<a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express" height="40" width="40" />
-</a>
-<a href="https://golang.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" height="40" width="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" width="40" />
-</a>
-<a href="https://reactjs.org/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" height="40" width="40" />
-</a>
-<a href="https://redux.js.org" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" height="40" width="40" />
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" title="Html5" height="40" width="40" />
-</a>
-<a href="https://getbootstrap.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" height="40" width="40" />
-</a>
-<a href="https://sass-lang.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" title="Sass" height="40" width="40" />
-</a>
-<a href="https://www.mongodb.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" height="40" width="40" />
-</a>
-<a href="https://www.mysql.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="40" width="40" />
-</a>
-<a href="https://redis.io" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" height="40" width="40" />
-</a>
-<a href="https://aws.amazon.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" height="40" width="40" />
-</a>
-<a href="https://heroku.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" height="40" width="40" />
-</a>
-<a href="https://www.docker.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" height="40" width="40" />
-</a>
-<a href="https://www.nginx.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" height="40" width="40" />
-</a>
-<a href="https://mochajs.org" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" title="Mocha" height="40" width="40" />
-</a>
-<a href="https://github.com/puppeteer/puppeteer" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" title="Puppeteer" height="40" width="40" />
-</a>
-<a href="https://laravel.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" title="Laravel" height="40" width="40" />
-</a>
-<a href="https://www.php.net/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="Php" title="Php" height="40" width="40" />
-</a>
-<br/>
-
-## Git Stats
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rd67&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="rd67 stats card" />
-</p>
-<br/>
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rd67" alt="rd67" />
+<span>
+    <a href="mailto:rohitdalal67@gmail.com" target="blank" title="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://linkedin.com/in/rd67" target="blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/rd67" target="blank" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet" alt="GitHub"/>
     </a>
-</p>
+    <a href="https://docs.google.com/document/d/15lDoHK7RmvAiBKZPdgUu30Uzs6KzXRZRgKOv5z0FDcY/edit?usp=sharing" target="_blank" title="Resume">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Resume%20Link-8A2BE2?style=for-the-badge" alt="Resume"/>
+    </a>
+</span>
 <br/>
 
-##  🧠 I'm currently learning...
-<a href="https://golang.org" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" height="60" width="60" />
-</a>
-<a href="https://kubernetes.io/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" title="Kubernetes" height="80" width="120" />
-</a>
+---
 
-<a href="https://azure.microsoft.com/en-in" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" title="Microsoft Azure" height="80" width="120" />
-</a>
+## Summary
 
-</br>
+I am Rohit Dalal a <b>FullStack, Golang Developer & DevOps</b> professional with ten years of experience working in startups and tech firms. <b>Expertise includes creating scalable APIs, designing microservices, and overseeing cloud infrastructure</b>. Skilled in using AI coding tools like GitHub Copilot and Cursor to boost development speed, improve code quality, and troubleshoot effectively. <b>Known for optimising costs, resolving complex issues, and delivering reliable, production-ready systems.</b>
+
+---
+
+## Skills
+
+- **Backend:** Node.js, Golang, TypeScript, PHP, ShellScript
+- **Frontend:** JavaScript, React.js, Next.js, HTML, CSS
+- **DevOps:** Docker, Kubernetes, CI/CD, Observability, AWS, DigitalOcean, Azure, Serverless
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, CosmosDB, ElasticSearch, SQL / ORM
+- **Tools & Practices:** AI-Assisted Development (Copilot, Cursor), REST API, gRPC, WebSockets
+- **Frameworks:** Express.js, Fastify, Restify, Nest.js, Gin, Laravel
+- **Beginner:** Python
+
+---
+
+## Experience
+
+### <a href="https://www.digitalocean.com" target="_blank" title="DigitalOcean">DigitalOcean</a> — _Senior Software Engineer I_
+
+**Apr 2024 – Present**
+
+- <b>Migrated static pages to SSR and ISR</b> for faster deployment and improved performance.
+- <b>Integrated AI-assisted development tools like Copilot and Cursor into the daily workflow to accelerate code generation.</b>
+- Designed and deployed an Admin Dashboard for the annual Hacktoberfest, enabling efficient event management by stakeholders.
+- <b>Improved SEO by remapping the sitemap</b> and integrating visibility enhancements.
+
+---
+
+### <a href="https://www.uniconvergetech.in" target="_blank" title="W.IT Global India Pvt Ltd">W.IT Global India Pvt Ltd</a> — _FullStack Developer (Golang)_
+
+**Sept 2022 – Apr 2024**
+
+- Implemented automated backup and restore workflows on Azure/Kubernetes, <b>reducing monthly disk usage costs by 80%</b> while improving recovery reliability.
+- <b>Built gRPC and REST microservices in Golang/Node.js</b> and enhanced Kubernetes architecture for streamlined deployments and updates.
+
+---
+
+### <a href="https://www.dev-story.com" target="_blank" title="Dev Story">Dev Story</a> — _FullStack Developer_
+
+**Mar 2021 – Jul 2022**
+
+- <b>Mentored junior developers, conducted code reviews</b>, and resolved production-level issues.
+- Managed infrastructure on AWS with <b>CI/CD pipelines, ensuring 99.7% uptime</b>.
+- Synced third-party services while maintaining real-time updates.
+
+---
+
+### <a href="https://edkentmedia.com" target="_blank" title="EdKent Media">EdKent Media</a> — _MERN Stack Developer_
+
+**Mar 2020 – Mar 2021**
+
+- <b>Created a new product from scratch, including Backend, Frontend, and DevOps.</b>
+- Maintained <b>minimum costs while generating millions of postcards and letters</b> of different sizes.
+- Built APIs and serverless solutions using AWS Lambda.
+
+---
+
+### <a href="https://www.linkedin.com/company/worklabstech" target="_blank" title="Worklabs">Worklabs</a> — _MERN Stack Developer_
+
+**Jun 2019 – Feb 2020**
+
+- <b>Built admin dashboards using the MERN stack with backend APIs.</b>
+- Managed AWS infrastructure, ensuring security and scalability.
+
+---
+
+### <a href="https://www.code-brew.com" target="_blank" title="Code Brew Labs">Code Brew Labs</a> — _Web Developer_
+
+**Sept 2015 – Feb 2019**
+
+- <b>Migrated legacy polling mechanisms in chat apps to WebSockets and implemented ORM in Node.js applications.</b>
+- Developed REST APIs using Node.js, Laravel, MySQL, and MongoDB for multiple client applications.
+- Handled deployments, server/database management, and security.
+
+---
+
+## Education
+
+### M.Tech — UIT, MDU
+
+**2025 – Pursuing**  
+Computer Science and Engineering
+
+### B.Tech — SRM University
+
+**2011 – 2015**  
+Computer Science and Engineering
+
+---
+
+## Projects
+- **<a href="https://www.digitalocean.com" target="_blank" title="DigitalOcean">DigitalOcean Site</a>**  
+  Improved SLO to 99.98% and reduced deployment time by 30% for the company’s main website handling millions of visits via SSR/ISR migration, CI/CD optimizations, and remap.
+
+- **Hacktoberfest Dashboard**  
+  Built an internal admin dashboard for stakeholders to manage thousands of users, PRs, and reports for the annual <a href="https://hacktoberfest.com" target="_blank" title="Hacktoberfest">Hacktoberfest</a> event.
+
+- **<a href="https://www.postgrid.com" target="_blank" title="PostGrid">PostGrid</a>**  
+  Enabled creation of millions of postcards and letters with high resilience and minimal cost using serverless technology.  
+  _Tech:_ MERN Stack, GitHub Actions, AWS, Serverless.
+
+- **<a href="https://webapp.safecity.in" target="_blank" title="Safecity">Safecity</a>**  
+  An initiative of the <a href="https://reddotfoundation.in" target="_blank" title="Red Dot Foundation">Red Dot Foundation</a> to help prevent violence in public and private spaces. Handles thousands of reports and events within seconds.  
+  _Tech:_ Laravel, MySQL, Redis, AWS.
+
+- **Datalab**  
+  Reduced disk usage costs by 80% through backup and auto-recovery design.  
+  _Tech:_ React.js, Node.js, TypeScript, Kubernetes, Azure.
+
+---
+
+## Areas of Interest
+
+- Backend Systems & DevOps
+- Javascript ecosystem
+- AI-powered development tooling
