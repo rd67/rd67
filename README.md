@@ -1,6 +1,6 @@
-<img src='images/cover.jpeg' alt="Rohit Dalal"></img>
-
-<center><img src="images/profile.jpg" height="auto" width="100" style="border-radius:50%"></center>
+<p align="center">
+  <img src='images/cover.jpeg' alt="Rohit Dalal">
+</p>
 
 ## How to reach me 📫:
 
